@@ -1,2 +1,2 @@
-# Cross_Prompt
-Semi-supervised Segmentatioon
+# ACCL_CINet
+A Semi-supervised Hyperspectral Segmentatioon method
