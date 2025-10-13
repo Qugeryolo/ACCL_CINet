@@ -1,3 +1,3 @@
-# [TIP'25]Semi-Supervised_Medical_Hyperspectral_Image_Segmentation_Using_Adversarial_Consistency_Constraint_Learning_and_Cross_Indication_Network
+# [TIP'25] Semi-Supervised Medical Hyperspectral Image Segmentation Using Adversarial Consistency Constraint Learning and Cross Indication Network
 
 The code will be made public later
