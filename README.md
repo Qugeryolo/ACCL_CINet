@@ -1,2 +1,3 @@
-# ACCL_CINet
-A Semi-supervised Hyperspectral Segmentatioon method
+# [TIP'25]Semi-Supervised_Medical_Hyperspectral_Image_Segmentation_Using_Adversarial_Consistency_Constraint_Learning_and_Cross_Indication_Network
+
+The code will be made public later
